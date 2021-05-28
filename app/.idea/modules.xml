@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-940242758/U2IMCApp.iml" filepath="$PROJECT_DIR$/.idea/modules/-940242758/U2IMCApp.iml" group="U2IMCApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="U2IMCApp/app" />
+    </modules>
+  </component>
+</project>
